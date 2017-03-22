@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ykchung\AndroidStudioProjects\Hackathon-foodie-master\UserApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\ykchung\AndroidStudioProjects\Hackathon-foodie-master\UserApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_44963af7137eddedff0f8dafc593e1c582acdec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ykchung\AndroidStudioProjects\Hackathon-foodie-master\UserApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27a7aa111da4f846c21e19c237e5b9f34fe139ee">
+        <dex dex="C:\Users\ykchung\AndroidStudioProjects\Hackathon-foodie-master\UserApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cb20cefb1d1dc33896624594e227caf57f4b5e19\classes.dex" />
+    </item>
+
+</items>
